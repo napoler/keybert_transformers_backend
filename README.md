@@ -14,7 +14,7 @@ https://github.com/napoler/keybert_transformers_backend
 from keybert import KeyBERT
 import jieba
 from tkitKeyBertBackend.TransformersBackend import TransformersBackend
-
+from transformers import BertTokenizer, BertModel
 doc = """
     1.没有提供分词功能，英文是空格分词，中文输入需要分完词输入。
     2.选择候选词：默认使用CountVectorizer进行候选词选择。

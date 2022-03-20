@@ -50,6 +50,7 @@ if __name__ == '__main__':
     https://www.kaggle.com/terrychanorg/keybert-extract-keywords-notebookcb54da42f2
     """
     from keybert import KeyBERT
+    from transformers import BertTokenizer, BertModel
     import jieba
     # from tkitKeyBertBackend.TransformersBackend import TransformersBackend
 
