@@ -51,6 +51,7 @@ if __name__ == '__main__':
     """
     from keybert import KeyBERT
     import jieba
+    # from tkitKeyBertBackend.TransformersBackend import TransformersBackend
 
     doc = """
     1.没有提供分词功能，英文是空格分词，中文输入需要分完词输入。
