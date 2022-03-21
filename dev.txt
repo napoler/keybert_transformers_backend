@@ -1,0 +1,7 @@
+appdirs==1.4.4
+ordered-set==3.1.1
+packaging==20.9
+pyparsing==2.4.7
+setuptools==44.1.1
+six==1.16.0
+wsgiref==0.1.2
