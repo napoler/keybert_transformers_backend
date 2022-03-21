@@ -5,6 +5,16 @@ keybert_transformers_backend
 
 https://github.com/napoler/keybert_transformers_backend
 
+## 安装
+```bash
+pip install tkitKeyBertBackend
+
+#or
+pip install git+https://github.com/napoler/keybert_transformers_backend
+```
+
+
+
 ```python
 
 """
